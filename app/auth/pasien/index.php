@@ -27,8 +27,8 @@
 
     <div class="d-flex justify-content-center">
       <div class="col-md-6 d-flex flex-column align-items-center gap-3">
-        <a href="/healthcare/app/auth/login" class="btn btn-custom-1 btn-lg rounded-pill">Masuk</a>
-        <a href="/healthcare/app/auth/register" class="btn btn-custom-2 btn-lg rounded-pill">Belum ada akun?, Daftar dulu</a>
+        <a href="https://healthcare.wenginard.cloud/app/auth/login" class="btn btn-custom-1 btn-lg rounded-pill">Masuk</a>
+        <a href="https://healthcare.wenginard.cloud/app/auth/register" class="btn btn-custom-2 btn-lg rounded-pill">Belum ada akun?, Daftar dulu</a>
       </div>
     </div>
 

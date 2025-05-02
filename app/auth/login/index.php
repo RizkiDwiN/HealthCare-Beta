@@ -33,10 +33,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $_SESSION['pasien_id'] = $data['pasien_id'];
         $_SESSION['pasien_name'] = $data['pasien_name'];
 
-        header("Location: /healthcare");
+        header("Location: https://healthcare.wenginard.cloud");
         exit();
     } else {
-        header("Location: /healthcare/app/auth/login/?pesan=gagal");
+        header("Location: https://healthcare.wenginard.cloud/app/auth/login/?pesan=gagal");
         exit();
     }
 }
