@@ -6,5 +6,5 @@ session_start();
 session_destroy();
  
 // mengalihkan halaman ke halaman login
-header("location:https://healthcare.wenginard.cloud/app/auth/welcome");
+header("location:https://project1.wenginard.cloud/app/auth/welcome");
 ?>

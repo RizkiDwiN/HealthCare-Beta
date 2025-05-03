@@ -19,8 +19,8 @@
 
     <div class="d-flex justify-content-center">
       <div class="col-md-6 d-flex flex-column align-items-center gap-3">
-        <a href="https://healthcare.wenginard.cloud/app/auth/pasien/" class="btn btn-custom-1 btn-lg rounded-pill">Pasien</a>
-        <a href="https://healthcare.wenginard.cloud/app/auth/pasien/" class="btn btn-custom-2 btn-lg rounded-pill">Perawat</a>
+        <a href="https://project1.wenginard.cloud/app/auth/pasien/" class="btn btn-custom-1 btn-lg rounded-pill">Pasien</a>
+        <a href="https://project1.wenginard.cloud/app/auth/pasien/" class="btn btn-custom-2 btn-lg rounded-pill">Perawat</a>
       </div>
     </div>
 
